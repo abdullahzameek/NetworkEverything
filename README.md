@@ -7,3 +7,10 @@ It is clear that modern scientists and so on understand the importance of needin
 As it went on, it came to no surprise to me that graph theory was the underlying principle of networks. The Konigsberg bridge problem did bring back bad memories from discrete mathematics from last semester, but nonentheless, it was interesting to read up on the actual applications of the theories I spent hours cramming.
 I also found the speed at which information flies through a network to be fascinating - the example of letting a few people in on a secret about a bottle of fine wine exemplified this fact.
 But, the most astonishing fact of all was that of the six degrees of seperation. To think that each and every person on Earth is possibly linked to one another by not too large of a degree of separation is truly mind-boggling. And, to bring that context down here to NYUAD would be even more fascinating, as this is a place that has literally brought people from all across the globe. But, taking the degrees of separation to the digital realm sprung up interesting results - one average there are nineteen degrees of seperation between two pages. I like to think of this figure to be more dynamic than a static average because of the sole fact that the world wide web is expanding at an exponetial rate. Even as I'm typing this, I reckon that there are hundred of new pages joining the network. But, when you combine the network of societies with the networks of the virtual world, you get a result that all of us take for granted today - an interconnected, global village. The fact that we have so many online social platforms is only possible because of the networks that exist. We just needed to understand how they worked in order to manipulate them to our use and benefit. And, like with the networks used by MafiaBoy and Paul, they pose two outcomes - a promise of hope, and one of chaos. Let's hope we choose to drive it towards the former, and not the latter.
+
+
+<b> Assignment Due 1st February - Useful and Useless IoT Devices </b>
+
+Useful - Intel Compute Card
+Useless - Quirky Egg Minder
+
