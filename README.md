@@ -11,6 +11,6 @@ But, the most astonishing fact of all was that of the six degrees of seperation.
 
 <b> Assignment Due 1st February - Useful and Useless IoT Devices </b>
 
-Useful - Intel Compute Card
+Useful IoT Device  - Intel Compute Card
 Useless - Quirky Egg Minder
 
