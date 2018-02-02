@@ -3,17 +3,17 @@ This is largely because unexpected behavior can result when you mix signed and u
 
 Consider the following snippet:
 
-''''C++
-void doSomething(unsigned int x)
-{
+
+    void doSomething(unsigned int x)
+    {
     // Run some code x times
-}
+    }
  
-int main()
-{
-    doSomething(-1);
-}
-'''
+    int main()
+    {
+        doSomething(-1);
+    }
+
 
 
 What happens in this case? -1 gets converted to some large number (probably 4294967295), and your program goes ballistic.
