@@ -1,3 +1,4 @@
 ## Reaction to Linked Chapter 4
 
-This 
+This chapter builds up on everything discussed in the previous chapters, but adds a more academic,analytical sense to it. It's interesting to see the number of people who've dedicated their lives to researching networks on such an in-depth scale and for them to realise that the 'networks' they identified are not specific to that particular field that they were investigating, but they were more generic than they thought. The concept of the Erdos number was also interesting, (Discrete Math memories yay!) in the sense that any researcher/student out there is not too far away from a renowned personality by a matter of links.
+But, once again, the internet defied all expectations when the Erdos-Renyi and Watts-Strogatz models couldn't explain the phenomenon of networks in the context of the internet. 
